@@ -1,5 +1,5 @@
 - 👋 @paolopik
-- 👀 Software Developer
+- 👀 Cloud Engineer & Software Developer
 - 🌱 AWS | Java | C# | JS | Web
 - 💞️ Employee on a Consulting Company
 - 📫 paolopichierri@outlook.it
